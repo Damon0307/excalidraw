@@ -1,0 +1,46 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "XG5d0gJpVk1wk1A6zH0EF",
+      "type": "text",
+      "x": 688.7999877929688,
+      "y": 185.60000610351562,
+      "width": 151,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 1633301671,
+      "version": 26,
+      "versionNonce": 1725466569,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1662452001060,
+      "link": null,
+      "locked": false,
+      "text": "hello the 2023",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "hello the 2023"
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

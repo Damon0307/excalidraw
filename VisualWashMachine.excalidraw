@@ -1,0 +1,46 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "text",
+      "version": 24,
+      "versionNonce": 2061798090,
+      "isDeleted": false,
+      "id": "T9xYt0E6X7Ygbz8LKt4xh",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "angle": 0,
+      "x": -56.58847341610783,
+      "y": 1242.0380328330539,
+      "strokeColor": "#000000",
+      "backgroundColor": "#15aabf",
+      "width": 167,
+      "height": 42,
+      "seed": 87565236,
+      "groupIds": [],
+      "roundness": null,
+      "boundElements": [],
+      "updated": 1672904425842,
+      "link": "https://devblogs.microsoft.com/cppblog/announcing-visual-c-build-tools-2015-standalone-c-tools-for-build-environments/",
+      "locked": false,
+      "fontSize": 36,
+      "fontFamily": 2,
+      "text": "MSBuilder",
+      "baseline": 33,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "MSBuilder"
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
